@@ -1,0 +1,17 @@
+.tox-statusbar {
+  display: none !important  ;
+}
+.tox-notifications-container {
+  display: none;
+}
+
+.required {
+  color:red;
+  margin-left:5px;
+}
+
+img.MuiBox-root.css-nq93rc {
+  position: absolute;
+  left: 0;
+}
+
